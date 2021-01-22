@@ -1,0 +1,29 @@
+{
+    "fields": {
+        "symbol":{
+            "yahoo": "Symbol",
+            "firsttrade": "Symbol"
+        },
+        "tradeDate":{
+            "yahoo": "Trade Date",
+            "firsttrade": "TradeDate"
+        },
+        "price":{
+            "yahoo": "Purchase Price",
+            "firsttrade": "Price"
+        },
+        "quantity":{
+            "yahoo": "Quantity",
+            "firsttrade": "Quantity"
+        },
+        "commission":{
+            "yahoo": "Commission",
+            "firsttrade": "Commission"
+        },
+        "comment":{
+            "yahoo": "Symbol",
+            "firsttrade": null
+        }
+    },
+    "availableProviders": [ "yahoo", "firsttrade"]
+}
